@@ -1,0 +1,15 @@
+.card {
+    max-width: 300px;
+    min-width: 300px;
+    min-height: 200px;
+    padding: 10px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card h2 {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
