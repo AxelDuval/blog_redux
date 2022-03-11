@@ -33,7 +33,6 @@ export default function Form() {
       setArticle(newObjState);
     }
   };
-  console.log(article);
 
   return (
     <form onSubmit={handleForm}>

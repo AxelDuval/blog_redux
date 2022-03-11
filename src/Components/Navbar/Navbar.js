@@ -27,9 +27,6 @@ export default function Navbar() {
             <Link className="nav-link"  to="/ecrire">
               Ecrire
             </Link>
-            <Link className="nav-link"  to="/contact">
-              Contact
-            </Link>
           </div>
         </div>
       </div>
